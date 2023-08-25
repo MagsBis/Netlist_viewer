@@ -1,8 +1,6 @@
-COMPILATION :
+  COMPILATION :
 
 mkdir build
-
-mkdir work
 
 cd build
 
@@ -13,6 +11,6 @@ cd ../work
 (cd ../build;make install)
 
 
-EXECUTION :
+  EXECUTION :
 
 ../build/tme810
