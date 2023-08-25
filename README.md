@@ -1,4 +1,6 @@
-Qt Netlist viewer in C++
+Qt Netlist viewer in C++.
+
+
 Implementation of classes allowing the visualization of an XML Netlist in a Qt viewer.
 
   COMPILATION :
