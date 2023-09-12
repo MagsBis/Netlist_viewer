@@ -1,21 +1,16 @@
-Qt Netlist viewer in C++.
+Qt Netlist viewer in C++
 
-
-Implementation of classes allowing the visualization of an XML Netlist in a Qt viewer.
-
-  COMPILATION :
-
+# COMPILATION :
+```sh
 mkdir build
-
+mkdir work
 cd build
-
 cmake ../src
-
 cd ../work
-
 (cd ../build;make install)
+```
 
-
-  EXECUTION :
-
+# EXECUTION :
+```sh
 ../build/tme810
+```
